@@ -64,7 +64,7 @@ const mockData = [
   {
     id: "0007",
     image: Image7,
-    title: "Smokey House",
+    title: "Double Tikki",
     paragraph: "patty, cheddar cheese, onion, lettuce, tomatoes, pickles",
     rating: 2.5,
     price: 99.19,
