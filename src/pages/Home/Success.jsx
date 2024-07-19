@@ -29,7 +29,7 @@ const Success = () => {
               <img
                 src={Image20}
                 alt=""
-                className="h-8 w-8 left-[440px] top-[263px] flex absolute"
+                className="h-8 w-8 left-[470px] top-[257px] flex absolute"
               />
               Your order has been sucessfully placed
             </p>
