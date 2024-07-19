@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { PropagateLoader } from "react-spinners";
-import Image20 from "../../assets/menu/check.png";
 import { Link } from "react-router-dom";
 
 const Success = () => {
@@ -24,15 +23,7 @@ const Success = () => {
               Order Successful!
             </h2>
 
-            <p>
-              {" "}
-              <img
-                src={Image20}
-                alt=""
-                className="h-8 w-8 left-[470px] top-[257px] flex absolute"
-              />
-              Your order has been sucessfully placed
-            </p>
+            <p> Your order has been sucessfully placed</p>
             <div className="flex justify-center">
               <Link
                 to="/"
